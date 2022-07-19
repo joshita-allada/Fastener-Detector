@@ -61,4 +61,8 @@ Also, data sets are usually grouped into batches and here we have divided them i
 
 ![fastenerdetector](./Static_images/confusion_matrix.png)
 
- 
+## Team members :
+ - [Ake Kowsik](https://github.com/Akekowsik/)
+ - [Joshita](https://github.com/joshita-allada)
+ - [keerthana](https://github.com/keerthana248)
+ - 
